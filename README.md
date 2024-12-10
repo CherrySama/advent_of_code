@@ -1,2 +1,2 @@
 # advent_of_code
- The codes for the Advent of Code 2024
+ The codes solution for the Advent of Code 2024 in C++
